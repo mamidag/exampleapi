@@ -25,7 +25,7 @@
         "rgba": [255,0,0,1],
         "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       }
-    },
+    }
     {
       "color": "blue",
       "category": "hue",
