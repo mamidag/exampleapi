@@ -1,5 +1,5 @@
-{
-  "colors": [
+
+  "colors": {
     {
       "color": "black",
       "category": "hue",
@@ -53,5 +53,5 @@
         "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       }
     },
-  ]
-}
+  }
+
