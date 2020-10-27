@@ -4,7 +4,7 @@
       "category": "hue",
       "type": "primary",
       "code": {
-        "rgba": [255,255,255,1],
+        "rgba": "rgba",
         "hex": "#000"
       }
     },
@@ -12,7 +12,7 @@
       "color": "white",
       "category": "value",
       "code": {
-        "rgba": [0,0,0,1],
+        "rgba": "rgba",
         "hex": "#FFF"
       }
     },
@@ -21,7 +21,7 @@
       "category": "hue",
       "type": "primary",
       "code": {
-        "rgba": [255,0,0,1],
+        "rgba": "rgba",
         "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       }
     },
@@ -30,7 +30,7 @@
       "category": "hue",
       "type": "primary",
       "code": {
-        "rgba": [0,0,255,1],
+        "rgba": "rgba",
         "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       }
     },
@@ -39,7 +39,7 @@
       "category": "hue",
       "type": "primary",
       "code": {
-        "rgba": [255,255,0,1],
+        "rgba": "rgba",
         "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       }
     },
@@ -48,7 +48,7 @@
       "category": "hue",
       "type": "secondary",
       "code": {
-        "rgba": [0,255,0,1],
+        "rgba": "rgba",
         "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
       }
     }
