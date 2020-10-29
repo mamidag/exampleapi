@@ -1,55 +1,57 @@
-"colors": [
-    {
-      "color": "black",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": "rgba",
-        "hex": "#000"
+{
+   "colors": [
+      {
+         "color": "black",
+         "category": "hue",
+         "type": "primary",
+         "code": {
+            "rgba": "rgba",
+            "hex": "#000"
+         }
+      },
+      {
+         "color": "white",
+         "category": "value",
+         "code": {
+            "rgba": "rgba",
+            "hex": "#FFF"
+         }
+      },
+      {
+         "color": "red",
+         "category": "hue",
+         "type": "primary",
+         "code": {
+            "rgba": "rgba",
+            "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+         }
+      },
+      {
+         "color": "blue",
+         "category": "hue",
+         "type": "primary",
+         "code": {
+            "rgba": "rgba",
+            "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+         }
+      },
+      {
+         "color": "yellow",
+         "category": "hue",
+         "type": "primary",
+         "code": {
+            "rgba": "rgba",
+            "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+         }
+      },
+      {
+         "color": "green",
+         "category": "hue",
+         "type": "secondary",
+         "code": {
+            "rgba": "rgba",
+            "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+         }
       }
-    },
-    {
-      "color": "white",
-      "category": "value",
-      "code": {
-        "rgba": "rgba",
-        "hex": "#FFF"
-      }
-    },
-    {
-      "color": "red",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": "rgba",
-        "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
-      }
-    },
-    {
-      "color": "blue",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": "rgba",
-        "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
-      }
-    },
-    {
-      "color": "yellow",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": "rgba",
-        "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
-      }
-    },
-    {
-      "color": "green",
-      "category": "hue",
-      "type": "secondary",
-      "code": {
-        "rgba": "rgba",
-        "hex": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
-      }
-    }
-  ]
+   ]
+}
